@@ -86,7 +86,7 @@ Ultimo passaggio per applicare le configurazioni di Terraform e creare tutte le 
 
 
 ### Errori riscontrati: 2
-Inizialmente non riuscivo a creare le risorse per un errore con le Variabili, secondo errore anche se non lo definirei errore ho messo una size alla vm molto bassa (ram 0.5), avevo fatto questa scelta per poter risparmiare soldi poichè dovrò il consumo delle risorse di tasca mia, quindi ho cambiato size perchè la vm era troppo lenta.
+Inizialmente non riuscivo a creare le risorse per un errore con le Variabili, secondo errore anche se non lo definirei errore ho messo una size alla vm molto bassa (ram 0.5), avevo fatto questa scelta per poter risparmiare soldi poichè dovrò pagare il consumo delle risorse di tasca mia, quindi ho cambiato size perchè la vm era troppo lenta.
 
 
 
